@@ -1,4 +1,4 @@
-# vitualScroller
+# VitualScroller
 
 A custom component for Blazing fast scrolling of any amount of data
 
